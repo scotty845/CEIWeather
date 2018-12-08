@@ -1,0 +1,29 @@
+{
+  "name": "ceiweather",
+  "version": "1.0.0",
+  "description": "Node.js Express EJS CSS API to fetch weather from Weather Underground API",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Node server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hal845/CEIWeather.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "Weather"
+  ],
+  "author": "Scott Londer",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hal845/CEIWeather/issues"
+  },
+  "homepage": "https://github.com/hal845/CEIWeather#readme"
+}
